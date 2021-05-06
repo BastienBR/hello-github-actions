@@ -27,4 +27,4 @@ jobs:
       with:
         context: ./action-a
         push: true
-        tags: BastienBR/hello-github-actions:latest
+        tags: bastienbresilv/hello-github-actions:latest
